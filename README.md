@@ -1,2 +1,2 @@
 # daley_os
-A customer operating system 
+A custom operating system 
